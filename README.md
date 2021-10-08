@@ -1,2 +1,2 @@
 # BasedeDados
-Base de dados PHP MyAdmin - Exercício ADS
+Base de dados MYSQL - Exercício ADS
