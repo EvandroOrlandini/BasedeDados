@@ -1,2 +1,2 @@
 # BasedeDados
-Base de dados MYSQL - Exercício ADS
+Base de dados MYSQL - Exercício ADS Univali
